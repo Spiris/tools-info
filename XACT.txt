@@ -1,0 +1,8 @@
+This is the cross platform audio tool built for use with XNA to import audio from wave files and allow them to be brought to Microsoft Windows and XBOX games
+http://msdn.microsoft.com/en-us/library/ff827590.aspx
+
+-Modifies and allows auditioning of audio cues
+-Allows for 3D audio effects created pre-game integration
+-Allows for tracks set to streaming for low memory usage
+-Allows tracks set to music to be overwritten by the XBOX audio player
+
